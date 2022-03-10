@@ -2,7 +2,7 @@ Hi, I'm Rick
 
 I'm a senior year Comp Sci student
 
-Actively working on the AdditionalPylons Starcraft AI: https://github.com/krogenth/AdditionalPylons
+Actively working on and contributing to the AdditionalPylons Starcraft AI: https://github.com/krogenth/AdditionalPylons
 
 Past projects:
 
